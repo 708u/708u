@@ -42,12 +42,9 @@
 </p>
 
 ## Stats
-<!--START_SECTION:waka-->
 [![](https://github.com/708u/708u/blob/main/charts/bar_graph.png)]()
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
 
 [![](https://github.com/708u/708u/blob/main/github-metrics.svg)]()
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
