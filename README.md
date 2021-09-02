@@ -40,3 +40,11 @@
 <p>
     <a href="https://yatteiki.fm/manifesto" target="_blank">yatteiki manifesto</a>
 </p>
+
+## Stats
+[![](https://github.com/708u/708u/blob/main/charts/bar_graph.png)]()
+
+[![](https://github.com/708u/708u/blob/main/github-metrics.svg)]()
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
