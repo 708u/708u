@@ -40,3 +40,9 @@
 <p>
     <a href="https://yatteiki.fm/manifesto" target="_blank">yatteiki manifesto</a>
 </p>
+
+## Stats
+<!--START_SECTION:waka-->
+<img src="https://github.com/708u/708u/blob/main/github-metrics.svg" alt="stat">
+[![trophy](https://github.com/708u/708u/blob/main/github-metrics.svg)](https://github.com/708u/708u/blob/main/github-metrics.svg)
+<!--END_SECTION:waka-->
