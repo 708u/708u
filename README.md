@@ -1,9 +1,12 @@
+## :owl:
+
+## Summary
 [![](https://raw.githubusercontent.com/708u/708u/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/708u/708u/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/708u/708u/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=708u&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Languages
+## Languages
 <p align="left">
     <a href="https://golang.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -32,3 +35,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank">
     </a>
 </p>
+
+## Code of conduct
+[yatteiki manifesto](https://yatteiki.fm/manifesto)
