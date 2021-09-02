@@ -1,4 +1,4 @@
-## :owl:
+:owl:
 
 ## Summary
 [![](https://raw.githubusercontent.com/708u/708u/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -37,4 +37,6 @@
 </p>
 
 ## Code of conduct
-[yatteiki manifesto](https://yatteiki.fm/manifesto)
+<p>
+    <a href="https://yatteiki.fm/manifesto" target="_blank">yatteiki manifesto</a>
+</p>
