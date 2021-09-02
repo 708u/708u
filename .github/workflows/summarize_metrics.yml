@@ -23,6 +23,8 @@ jobs:
           GH_TOKEN: ${{ secrets.PROFILE_SUMMARY_PAT }}
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_EDITORS: "True"
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PROFILE_SUMMARY_PAT }}
