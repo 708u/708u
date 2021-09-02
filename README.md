@@ -43,7 +43,11 @@
 
 ## Stats
 <!--START_SECTION:waka-->
-[![](https://github.com/708u/708u/blob/main/github-metrics.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img src="https://github.com/708u/708u/blob/main/github-metrics.svg" alt="stat">
-[![trophy](https://github.com/708u/708u/blob/main/github-metrics.svg)](https://github.com/708u/708u/blob/main/github-metrics.svg)
+[![](https://github.com/708u/708u/blob/main/charts/bar_graph.png)]()
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+
+[![](https://github.com/708u/708u/blob/main/github-metrics.svg)]()
+
 <!--END_SECTION:waka-->
