@@ -95,4 +95,4 @@ Mac                      0 secs              ░░░░░░░░░░░�
 <summary>metrics</summary>
 
 [![](https://github.com/708u/708u/blob/main/github-metrics.svg)]()
-<details>
+</details>
