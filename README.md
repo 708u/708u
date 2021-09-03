@@ -41,13 +41,7 @@
     <a href="https://yatteiki.fm/manifesto" target="_blank">yatteiki manifesto</a>
 </p>
 
-## Stats
-
-<details>
-<summary>metrics</summary>
-
-[![](https://github.com/708u/708u/blob/main/github-metrics.svg)]()
-<details>
+## Activity
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤**
@@ -96,3 +90,9 @@ Mac                      0 secs              ░░░░░░░░░░░�
 
  Last Updated on 03/09/2021
 <!--END_SECTION:waka-->
+
+<details>
+<summary>metrics</summary>
+
+[![](https://github.com/708u/708u/blob/main/github-metrics.svg)]()
+<details>
