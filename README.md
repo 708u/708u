@@ -43,8 +43,5 @@
 
 ## Others
 
-<details>
-<summary>metrics</summary>
-
+### Metrics
 [![](https://github.com/708u/708u/blob/main/github-metrics.svg)]()
-</details>
