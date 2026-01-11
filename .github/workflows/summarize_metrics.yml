@@ -18,6 +18,8 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
       - uses: lowlighter/metrics@latest
+        env:
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
         with:
           token: ${{ secrets.PROFILE_SUMMARY_PAT }}
           plugin_isocalendar: yes
